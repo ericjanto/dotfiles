@@ -1,5 +1,7 @@
 {
     "window.zoomLevel": 1,
     "explorer.confirmDelete": false,
-    "git.autofetch": true
+    "git.autofetch": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.minimap.enabled": false
 }
