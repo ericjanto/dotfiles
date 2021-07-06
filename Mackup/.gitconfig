@@ -1,0 +1,5 @@
+[user]
+	name = Eric Janto
+	email = e.janto@gmx.de
+[core]
+	excludesfile = /Users/ericjanto/.gitignore_global

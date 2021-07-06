@@ -1,0 +1,18 @@
+{
+  "accounts": {
+    "e.janto@kindle.com": [
+      "AZW, MOBI, TPZ, PRC, AZW1",
+      true,
+      true
+    ]
+  },
+  "aliases": {},
+  "encryption": "TLS",
+  "from_": "e.janto@gmx.de",
+  "relay_host": null,
+  "relay_password": "",
+  "relay_port": 25,
+  "relay_username": null,
+  "subjects": {},
+  "tags": {}
+}
