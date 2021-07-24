@@ -1,5 +1,10 @@
 prefs = {
 	Adobe_successfulUpgrades1000000 = "pickle = {\
+	[\"/Volumes/Eric/LR-Katalog/Lightroom Catalog-2.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"CB3A23D5-8435-4FE0-A6D4-36AF29463486\",\
+		upgraded = \"/Volumes/Eric/LR-Katalog/test-v10.lrcat\",\
+	},\
 	[\"/Volumes/Eric/LR-Katalog/Lightroom Catalog.lrcat\"] = {\
 		catalogType = \"lr\",\
 		id = \"CB3A23D5-8435-4FE0-A6D4-36AF29463486\",\
@@ -7,12 +12,14 @@ prefs = {
 	},\
 }\
 ",
-	libraryToLoad20 = "/Users/ericjanto/Pictures/Lightroom/Lightroom Catalog.lrcat",
+	libraryToLoad20 = "/Volumes/Eric/LR-Katalog/Lightroom Catalog-v10.lrcat",
 	recentLibraries20 = "recentLibraries = {\
+	\"/Volumes/Eric/LR-Katalog/Lightroom Catalog-v10.lrcat\",\
 	\"/Users/ericjanto/Pictures/Lightroom/Lightroom Catalog.lrcat\",\
 }\
 ",
 	recentLibraries20_missing = "recentMissingLibraries = {\
+	\"/Volumes/Eric/LR-Katalog/test-v10.lrcat\",\
 	\"/Volumes/Eric/LR-Katalog/Lightroom Catalog-v10.lrcat\",\
 }\
 ",

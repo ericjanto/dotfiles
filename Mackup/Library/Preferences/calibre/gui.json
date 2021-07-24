@@ -5,7 +5,11 @@
   ],
   "book_list_pin_splitter_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAEAAAACAAABAP////8A/////wEAAAABAA=="
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
+  },
+  "convert_single_dialog_geom": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAZAAAACgAAB1IAAAP5AAAAGQAAACYAAAdSAAAD+QAAAAAAAAAAB4AAAAAZAAAAJgAAB1IAAAP5"
   },
   "cover_browser_splitter_vertical_state": [
     false,
@@ -13,10 +17,21 @@
   ],
   "grid view visible": false,
   "library_usage_stats": {
-    "/Users/ericjanto/OneDrive - University of Edinburgh/Bücher/Calibre": 2
+    "/Users/ericjanto/OneDrive - University of Edinburgh/Bücher/Calibre": 8
   },
   "quick_start_guide_added": true,
   "quickview visible": false,
+  "replace_scene_breaks_history": [
+    "",
+    "<hr />",
+    "∗ ∗ ∗",
+    "• • •",
+    "♦ ♦ ♦",
+    "† †",
+    "‡ ‡ ‡",
+    "∞ ∞ ∞",
+    "¤ ¤ ¤"
+  ],
   "search bar visible": true,
   "tag browser search box visible": false,
   "tag_browser_splitter_horizontal_state": [

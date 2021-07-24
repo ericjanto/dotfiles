@@ -7,7 +7,7 @@
    crs:NegativeCachePath=""
    crs:NegativeCachePath2=""
    crs:NegativeCacheMaximumSize="5.0"
-   crs:NegativeCacheLargePreviewSize="2048"
+   crs:NegativeCacheLargePreviewSize="1440"
    crs:JPEGHandling="OpenIfHasSettings"
    crs:TIFFHandling="OpenIfHasSettings"/>
  </rdf:RDF>

@@ -1,5 +1,12 @@
 {
+  "add books dialog dir": "/Users/ericjanto/Downloads",
   "database location dialog": "/Users/ericjanto/OneDrive - University of Edinburgh/Bücher/Calibre",
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "5.23"
+    ]
+  },
   "sort_history": [
     [
       "timestamp",

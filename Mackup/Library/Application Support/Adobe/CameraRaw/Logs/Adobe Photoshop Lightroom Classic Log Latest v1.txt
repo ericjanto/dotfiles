@@ -569,5 +569,55 @@ Intel(R) Iris(TM) Plus Graphics 640: Finished building compute pipeline states.
 GPU Init Status (part 2): I3_GPU3
 GPU3 Hard Status Result (part 2): success
 GPU3 Soft Status Result (part 2): fail_insufficient_memory
+TrimFootprint:   31.5 MB purged from pools.
+TrimFootprint:    0.0 MB purged from pools.
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+TrimFootprint:    0.0 MB purged from pools.
+TrimFootprint:   58.8 MB purged from pools.
+TrimFootprint:    0.0 MB purged from pools.
+TrimFootprint:   60.9 MB purged from pools.
+TrimFootprint:    0.0 MB purged from pools.
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+TrimFootprint:    0.0 MB purged from pools.
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+TrimFootprint:    0.0 MB purged from pools.
+TrimFootprint:  302.0 MB purged from pools.
+TrimFootprint:   23.1 MB purged from pools.
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+TrimFootprint:    0.0 MB purged from pools.
+TrimFootprint:   42.0 MB purged from pools.
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+Profile self-check: lcpCount=2424, dcpCount=2999
+TrimFootprint:   54.6 MB purged from pools.
+TrimFootprint:    0.0 MB purged from pools.
+TrimFootprint:   31.5 MB purged from pools.
+TrimFootprint:    0.0 MB purged from pools.
+TrimFootprint:    0.0 MB purged from pools.
+TrimFootprint:  144.7 MB purged from pools.
+TrimFootprint:  132.2 MB purged from pools.
+TrimFootprint:  440.4 MB purged from pools.
 Terminate GPU system
+Resource count and estimated mem use:
+  cr_thread:       0 (   0.000 MB)
+  cr_context:      0 (   0.000 MB)
+  cr_negative:     0 (   0.000 MB)
+  cr_image:        1 (   5.260 MB)
+  cr_image(c):     0 (   0.000 MB)
+  buffers:         1 (   0.000 MB)
+  vm:              0 /       0 MB
 cr_sdk_terminate
