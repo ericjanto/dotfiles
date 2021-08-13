@@ -15,9 +15,13 @@
     false,
     300
   ],
+  "duplicates-question-dialog-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAKlAAABKwAABLIAAALAAAACpQAAAUcAAASyAAACwAAAAAAAAAAAB4AAAAKlAAABRwAABLIAAALA"
+  },
   "grid view visible": false,
   "library_usage_stats": {
-    "/Users/ericjanto/OneDrive - University of Edinburgh/Bücher/Calibre": 8
+    "/Users/ericjanto/OneDrive - University of Edinburgh/Bücher/Calibre": 14
   },
   "quick_start_guide_added": true,
   "quickview visible": false,

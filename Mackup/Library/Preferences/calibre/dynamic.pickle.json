@@ -4,7 +4,8 @@
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
-      "5.23"
+      "5.23",
+      "5.25"
     ]
   },
   "sort_history": [

@@ -6,7 +6,7 @@ libdispatch threading: yes
 thread type: dispatch
 ACE thread type: dispatch
 PatchMatch initialized (version 5.5.0.0). Using 4 threads.
-OS: 11.4
+OS: 11.5.1
 CPU: Intel(R) Core(TM) i5-7360U CPU @ 2.30GHz
 MPProcessorCount (hyperthreading = false): 2
 MPProcessorCount (hyperthreading = true): 4
@@ -21,13 +21,13 @@ Read GPU config
 Safe load GPU
 Building pipeline states for Intel(R) Iris(TM) Plus Graphics 640
 Loaded GPU system: Metal
-GPU primary driver version: 11.4.0
+GPU primary driver version: 11.5.1
 GPU device count: 1
 GPU device names: Intel(R) Iris(TM) Plus Graphics 640
 GPU3 allow list: no
 GPU3 deny list: no
-GPU3 prev digest: 88604B02AAD44864C6C7B18AB618690F
-GPU3 new digest: 88604B02AAD44864C6C7B18AB618690F
+GPU3 prev digest: ACAC57BBAA076DBB5E296355B86C3B27
+GPU3 new digest: ACAC57BBAA076DBB5E296355B86C3B27
 Need to run gpu self tests : False.
 GPU Init Status (part 1): I2_GPU2
 GPU3 Hard Status Result (part 1): unknown
@@ -569,55 +569,15 @@ Intel(R) Iris(TM) Plus Graphics 640: Finished building compute pipeline states.
 GPU Init Status (part 2): I3_GPU3
 GPU3 Hard Status Result (part 2): success
 GPU3 Soft Status Result (part 2): fail_insufficient_memory
-TrimFootprint:   31.5 MB purged from pools.
-TrimFootprint:    0.0 MB purged from pools.
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-TrimFootprint:    0.0 MB purged from pools.
-TrimFootprint:   58.8 MB purged from pools.
-TrimFootprint:    0.0 MB purged from pools.
-TrimFootprint:   60.9 MB purged from pools.
-TrimFootprint:    0.0 MB purged from pools.
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-TrimFootprint:    0.0 MB purged from pools.
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-TrimFootprint:    0.0 MB purged from pools.
-TrimFootprint:  302.0 MB purged from pools.
-TrimFootprint:   23.1 MB purged from pools.
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-TrimFootprint:    0.0 MB purged from pools.
-TrimFootprint:   42.0 MB purged from pools.
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-Profile self-check: lcpCount=2424, dcpCount=2999
-TrimFootprint:   54.6 MB purged from pools.
-TrimFootprint:    0.0 MB purged from pools.
-TrimFootprint:   31.5 MB purged from pools.
-TrimFootprint:    0.0 MB purged from pools.
-TrimFootprint:    0.0 MB purged from pools.
-TrimFootprint:  144.7 MB purged from pools.
-TrimFootprint:  132.2 MB purged from pools.
-TrimFootprint:  440.4 MB purged from pools.
+TrimFootprint:   29.4 MB purged from pools.
+*** Warning: Scratch Manager CPU fRealMemoryAllocated: 532224 ***
 Terminate GPU system
 Resource count and estimated mem use:
   cr_thread:       0 (   0.000 MB)
   cr_context:      0 (   0.000 MB)
   cr_negative:     0 (   0.000 MB)
-  cr_image:        1 (   5.260 MB)
+  cr_image:        1 (   0.395 MB)
   cr_image(c):     0 (   0.000 MB)
-  buffers:         1 (   0.000 MB)
+  buffers:         3 (   0.508 MB)
   vm:              0 /       0 MB
 cr_sdk_terminate
