@@ -7,6 +7,68 @@
     "__class__": "bytearray",
     "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
   },
+  "card_a_view books view state": {
+    "column_alignment": {
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "collections": 5,
+      "inlibrary": 0,
+      "size": 4,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 90,
+      "collections": 100,
+      "inlibrary": 90,
+      "size": 55,
+      "timestamp": 70,
+      "title": 57
+    },
+    "hidden_columns": [],
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ]
+    ]
+  },
+  "card_b_view books view state": {
+    "column_alignment": {
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "collections": 5,
+      "inlibrary": 0,
+      "size": 4,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 90,
+      "collections": 100,
+      "inlibrary": 90,
+      "size": 55,
+      "timestamp": 70,
+      "title": 57
+    },
+    "hidden_columns": [],
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ]
+    ]
+  },
   "convert_single_dialog_geom": {
     "__class__": "bytearray",
     "__value__": "AdnQywADAAAAAAAZAAAACgAAB1IAAAP5AAAAGQAAACYAAAdSAAAD+QAAAAAAAAAAB4AAAAAZAAAAJgAAB1IAAAP5"
@@ -17,11 +79,60 @@
   ],
   "duplicates-question-dialog-geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAKlAAABKwAABLIAAALAAAACpQAAAUcAAASyAAACwAAAAAAAAAAAB4AAAAKlAAABRwAABLIAAALA"
+    "__value__": "AdnQywADAAAAAAA/AAABRAAAAkwAAALZAAAAPwAAAWAAAAJMAAAC2QAAAAAAAAAABaAAAAA/AAABYAAAAkwAAALZ"
+  },
+  "exim-calibre-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAE1AAAAbgAABFQAAALhAAABNQAAAIoAAARUAAAC4QAAAAAAAAAABaAAAAE1AAAAigAABFQAAALh"
   },
   "grid view visible": false,
+  "jobs view column layout3": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfQAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAA"
+  },
+  "jobs_dialog_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAQSAAAB1gAACBEAAAQPAAAEEgAAAfIAAAgRAAAEDwAAAAAAAAAACgAAAAQSAAAB8gAACBEAAAQP"
+  },
   "library_usage_stats": {
-    "/Users/ericjanto/OneDrive - University of Edinburgh/Bücher/Calibre": 14
+    "/Users/ericjanto/OneDrive - University of Edinburgh/Bücher/Calibre": 20,
+    "/Users/ericjanto/OneDrive - University of Edinburgh/Bücher/Calibre Library": 15,
+    "/Users/ericjanto/OneDrive - University of Edinburgh/Organisation/Bücher/Calibre": 3
+  },
+  "memory_view books view state": {
+    "column_alignment": {
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "collections": 5,
+      "inlibrary": 0,
+      "size": 4,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 256,
+      "collections": 100,
+      "inlibrary": 90,
+      "size": 68,
+      "timestamp": 99,
+      "title": 350
+    },
+    "hidden_columns": [],
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ]
+    ]
+  },
+  "preferences dialog geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAD1AAAAMgAABJYAAAMdAAAA9QAAAE4AAASWAAADHQAAAAAAAAAABaAAAAD1AAAATgAABJYAAAMd"
   },
   "quick_start_guide_added": true,
   "quickview visible": false,

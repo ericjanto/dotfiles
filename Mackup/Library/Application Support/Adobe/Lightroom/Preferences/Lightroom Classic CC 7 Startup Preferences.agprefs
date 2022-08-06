@@ -12,14 +12,31 @@ prefs = {
 	},\
 }\
 ",
-	libraryToLoad20 = "/Volumes/Eric/LR-Katalog/Lightroom Catalog-v10.lrcat",
+	Adobe_successfulUpgrades1100000 = "pickle = {\
+	[\"/Users/ericjanto/Pictures/Lightroom/Lightroom Catalog.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"15D31B66-880E-4CDC-88BE-03D2FF397375\",\
+		upgraded = \"/Users/ericjanto/Pictures/Lightroom/Lightroom Catalog-v11.lrcat\",\
+	},\
+	[\"/Volumes/Eric/LR-Katalog/Lightroom Catalog-v10.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"CB3A23D5-8435-4FE0-A6D4-36AF29463486\",\
+		upgraded = \"/Volumes/Eric/LR-Katalog/Lightroom Catalog-v10-v11.lrcat\",\
+	},\
+}\
+",
+	libraryToLoad20 = "/Volumes/Eric/LR-Katalog/Lightroom Catalog-v11.lrcat",
 	recentLibraries20 = "recentLibraries = {\
-	\"/Volumes/Eric/LR-Katalog/Lightroom Catalog-v10.lrcat\",\
+	\"/Volumes/Eric/LR-Katalog/Lightroom Catalog-v11.lrcat\",\
+	\"/Users/ericjanto/Pictures/Lightroom/Lightroom Catalog-v11.lrcat\",\
 	\"/Users/ericjanto/Pictures/Lightroom/Lightroom Catalog.lrcat\",\
+	\"/Volumes/Eric/LR-Katalog/Lightroom Catalog-v10.lrcat\",\
 }\
 ",
 	recentLibraries20_missing = "recentMissingLibraries = {\
+	\"/Volumes/Eric/LR-Katalog/Lightroom Catalog-v10-v11.lrcat\",\
 	\"/Volumes/Eric/LR-Katalog/test-v10.lrcat\",\
+	\"/Volumes/Eric/LR-Katalog/Lightroom Catalog-v11.lrcat\",\
 	\"/Volumes/Eric/LR-Katalog/Lightroom Catalog-v10.lrcat\",\
 }\
 ",

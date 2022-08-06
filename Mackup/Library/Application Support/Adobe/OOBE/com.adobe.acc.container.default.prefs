@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0"?>
 <prefs>
-    <property key="MachineDeviceToken">C1ACD6E3D21C8D05CEA7A04783EF41A2686143D24A83DE38A1CAC97DC6868A5F</property>
-    <property key="keepAppAlwaysUpToDate">ON</property>
-    <property key="windowSize">1280:720</property>
-    <property key="windowMode">normal</property>
+	<property key="MachineDeviceToken">C1ACD6E3D21C8D05CEA7A04783EF41A2686143D24A83DE38A1CAC97DC6868A5F</property>
+	<property key="keepAppAlwaysUpToDate">ON</property>
+	<property key="windowSize">1024:720</property>
+	<property key="windowMode">normal</property>
+	<property key="colorThemeFGState">true</property>
 </prefs>

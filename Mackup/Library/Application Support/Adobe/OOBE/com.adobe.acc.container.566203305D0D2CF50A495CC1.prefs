@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0"?>
 <prefs>
-    <property key="PushDeviceID">c68a3212-72ec-4233-9f0c-7b1776e62900</property>
-    <property key="ARSGuid">87d64700-7b95-4d4f-836e-9bbe9908c5b5</property>
-    <property key="showTour.LTRM">1</property>
-    <property key="showTour">1</property>
+	<property key="ARSGuid">ac721496-9060-42fc-bbcc-c25efc0ed40e</property>
+	<property key="showTour.LTRM">1</property>
+	<property key="showTour">1</property>
+	<property key="appsPanelVisibilityAnalytics">enabled</property>
+	<property key="PushDeviceID">c68a3212-72ec-4233-9f0c-7b1776e62900</property>
 </prefs>

@@ -1,7 +1,23 @@
 {
-    "explorer.confirmDelete": false,
-    "git.autofetch": true,
-    "security.workspace.trust.untrustedFiles": "open",
-    "editor.minimap.enabled": false,
-    "window.zoomLevel": 1
+  "explorer.confirmDragAndDrop": false,
+  "security.workspace.trust.untrustedFiles" : "open",
+  "git.autofetch" : true,
+  "editor.minimap.enabled" : false,
+  "terminal.integrated.defaultLocation" : "editor",
+  "workbench.colorTheme" : "GitHub Dark Dimmed",
+  "git.confirmSync" : false,
+  "editor.accessibilitySupport" : "off",
+  "git.enableSmartCommit" : true,
+  "explorer.confirmDelete" : false,
+  "git.ignoreRebaseWarning" : true,
+  "Lua.telemetry.enable" : true,
+  "latex-workshop.view.pdf.viewer": "tab",
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "window.zoomLevel": 1
 }
