@@ -1,0 +1,7 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="derby.embedded">
+      <artifact id="Apache Derby" name="Apache Derby" use="true" version="10.15.2.0" />
+    </driver>
+  </component>
+</application>

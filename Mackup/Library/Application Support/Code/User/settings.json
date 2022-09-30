@@ -19,5 +19,7 @@
     "editor.defaultFormatter": "aeschli.vscode-css-formatter"
   },
   "diffEditor.ignoreTrimWhitespace": false,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "haskell.manageHLS": "PATH",
   "window.zoomLevel": 1
 }

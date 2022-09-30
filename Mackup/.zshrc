@@ -104,6 +104,6 @@ export PYTHONPATH=$PYTHONPATH:~/Developer/SDF
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 
-alias ohmyzsh="code ~/.oh-my-zsh"
+alias nodeimport="node --experimental-repl-await"
 alias python=/usr/local/bin/python3
 alias zshconfig="code ~/.zshrc"

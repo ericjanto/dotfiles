@@ -1,12 +1,11 @@
-cr_sdk_initialize: Adobe Photoshop Lightroom Classic 11.3.1 (Macintosh), version 14.3x1072, 64-bit, Release
+cr_sdk_initialize: Adobe Photoshop Lightroom Classic 11.5 (Macintosh), version 14.5x1177, 64-bit, Release
 gDNGMaxSIMD: 3
 Memory allocator: baseline (cr_memory_allocator)
-TBB threading: no
 libdispatch threading: yes
 thread type: dispatch
 ACE thread type: dispatch
 PatchMatch initialized (version 5.81.0.0). Using 4 threads.
-OS: 12.1
+OS: 12.5.1
 CPU: Intel(R) Core(TM) i5-7360U CPU @ 2.30GHz
 MPProcessorCount (hyperthreading = false): 2
 MPProcessorCount (hyperthreading = true): 4
@@ -21,18 +20,18 @@ Read GPU config
 Safe load GPU
 Building pipeline states for Intel(R) Iris(TM) Plus Graphics 640
 Loaded GPU system: Metal
-GPU primary driver version: 12.1.0
+GPU primary driver version: 12.5.1
 GPU device count: 1
 GPU device names: Intel(R) Iris(TM) Plus Graphics 640
 GPU3 allow list: no
 GPU3 deny list: no
-GPU3 prev digest: 78EB687384985089B95CAEB07C361748
-GPU3 new digest: 78EB687384985089B95CAEB07C361748
+GPU3 prev digest: D3EE2BEED4D2606524FD78C869BEF7DF
+GPU3 new digest: D3EE2BEED4D2606524FD78C869BEF7DF
 Need to run gpu self tests : False.
 GPU Init Status (part 1): I2_GPU2
 GPU3 Hard Status Result (part 1): unknown
 GPU3 Soft Status Result (part 1): fail_insufficient_memory
-GPU4 Hard Status Result (part 1): fail_config_disable
+GPU4 Hard Status Result (part 1): unknown
 GPU4 Soft Status Result (part 1): fail_insufficient_memory
 Intel(R) Iris(TM) Plus Graphics 640: Building compute pipeline state (1/253)
 MaxTotalThreadsPerThreadGroup: TestNOPCompute,1024,512
@@ -155,6 +154,7 @@ MaxTotalThreadsPerThreadGroup: BoxBlur1Pass4PlaneRadius4Compute,448,448
 Intel(R) Iris(TM) Plus Graphics 640: Building compute pipeline state (60/253)
 MaxTotalThreadsPerThreadGroup: BoxBlur1Pass4PlaneRadius5Compute,448,448
 Intel(R) Iris(TM) Plus Graphics 640: Building compute pipeline state (61/253)
+Intel Compiler: no
 MaxTotalThreadsPerThreadGroup: BoxBlur1Pass4PlaneRadius6Compute,448,448
 Intel(R) Iris(TM) Plus Graphics 640: Building compute pipeline state (62/253)
 MaxTotalThreadsPerThreadGroup: BoxBlurAcross1PlanePlusIpProductRadius1Compute,1024,512
@@ -413,7 +413,6 @@ MaxTotalThreadsPerThreadGroup: FillTextureCompute,1024,512
 Intel(R) Iris(TM) Plus Graphics 640: Building compute pipeline state (189/253)
 MaxTotalThreadsPerThreadGroup: Histogram1PlaneCompute,1024,512
 Intel(R) Iris(TM) Plus Graphics 640: Building compute pipeline state (190/253)
-Intel Compiler: no
 MaxTotalThreadsPerThreadGroup: Histogram1Plane_V1Compute,1024,512
 Intel(R) Iris(TM) Plus Graphics 640: Building compute pipeline state (191/253)
 MaxTotalThreadsPerThreadGroup: Histogram3PlaneCompute,1024,512
@@ -542,23 +541,3 @@ MaxTotalThreadsPerThreadGroup: WarpPlanesDifferentCompute,1024,512
 Intel(R) Iris(TM) Plus Graphics 640: Building compute pipeline state (253/253)
 MaxTotalThreadsPerThreadGroup: WarpPlanesDifferent4X4Compute,1024,512
 Intel(R) Iris(TM) Plus Graphics 640: Finished building compute pipeline states.
-GPU Init Status (part 2): I3_GPU3
-GPU3 Hard Status Result (part 2): success
-GPU3 Soft Status Result (part 2): fail_insufficient_memory
-GPU4 Hard Status Result (part 2): fail_config_disable
-GPU4 Soft Status Result (part 2): fail_insufficient_memory
-TrimFootprint:  163.6 MB purged from pools.
-TrimFootprint:  232.8 MB purged from pools.
-TrimFootprint:    0.0 MB purged from pools.
-TrimFootprint:   50.3 MB purged from pools.
-TrimFootprint:   98.6 MB purged from pools.
-Terminate GPU system
-Resource count and estimated mem use:
-  cr_thread:       0 (   0.000 MB)
-  cr_context:      0 (   0.000 MB)
-  cr_negative:     0 (   0.000 MB)
-  cr_image:        3 (  29.173 MB)
-  cr_image(c):     0 (   0.000 MB)
-  buffers:         3 (   0.000 MB)
-  vm:              0 /       0 MB
-cr_sdk_terminate

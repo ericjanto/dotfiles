@@ -9,14 +9,16 @@
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
-      "5.25",
       "6.1",
+      "6.4",
       "5.37",
-      "5.34",
-      "6.0",
       "5.42",
-      "5.23",
-      "5.32"
+      "5.25",
+      "5.32",
+      "5.34",
+      "6.3",
+      "6.0",
+      "5.23"
     ]
   },
   "recursive book import root dir dialog": "/Users/ericjanto/OneDrive - University of Edinburgh/Organisation/Bücher/Calibre",
