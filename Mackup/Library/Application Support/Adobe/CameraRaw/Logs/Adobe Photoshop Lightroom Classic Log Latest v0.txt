@@ -1,0 +1,9 @@
+*** Warning: Scratch Manager CPU fRealMemoryAllocated: 3459456 ***
+Resource count and estimated mem use:
+  cr_thread:       0 (   0.000 MB)
+  cr_context:      0 (   0.000 MB)
+  cr_negative:     0 (   0.000 MB)
+  cr_image:        2 (   3.156 MB)
+  cr_image(c):     0 (   0.000 MB)
+  buffers:        18 (   3.301 MB)
+  vm:              0 /       0 MB

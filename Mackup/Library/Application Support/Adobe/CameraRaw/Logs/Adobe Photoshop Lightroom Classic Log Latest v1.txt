@@ -84,6 +84,7 @@ MaxTotalThreadsPerThreadGroup: Blur1Pass4PlaneRadius6Compute,896,512
 Intel(R) Iris(TM) Plus Graphics 640: Building compute pipeline state (25/253)
 MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown1PlaneRadius1Compute,1024,512
 Intel(R) Iris(TM) Plus Graphics 640: Building compute pipeline state (26/253)
+Intel Compiler: no
 MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown1PlaneRadius2Compute,1024,512
 Intel(R) Iris(TM) Plus Graphics 640: Building compute pipeline state (27/253)
 MaxTotalThreadsPerThreadGroup: BlurAcrossOrDown1PlaneRadius3Compute,1024,512
@@ -154,7 +155,6 @@ MaxTotalThreadsPerThreadGroup: BoxBlur1Pass4PlaneRadius4Compute,448,448
 Intel(R) Iris(TM) Plus Graphics 640: Building compute pipeline state (60/253)
 MaxTotalThreadsPerThreadGroup: BoxBlur1Pass4PlaneRadius5Compute,448,448
 Intel(R) Iris(TM) Plus Graphics 640: Building compute pipeline state (61/253)
-Intel Compiler: no
 MaxTotalThreadsPerThreadGroup: BoxBlur1Pass4PlaneRadius6Compute,448,448
 Intel(R) Iris(TM) Plus Graphics 640: Building compute pipeline state (62/253)
 MaxTotalThreadsPerThreadGroup: BoxBlurAcross1PlanePlusIpProductRadius1Compute,1024,512
