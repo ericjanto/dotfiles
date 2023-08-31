@@ -21,5 +21,8 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.unicodeHighlight.ambiguousCharacters": false,
   "haskell.manageHLS": "PATH",
-  "window.zoomLevel": 1
+  "window.zoomLevel": 1,
+  "editor.rulers": [
+    78
+  ]
 }

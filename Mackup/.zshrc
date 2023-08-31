@@ -76,14 +76,13 @@ source $ZSH/oh-my-zsh.sh
 # Environment variables
 
 # Path variable
-export PATH=$PATH:/usr/local/bin/chromedriver
+export PATH="/Users/ericjanto/.local/bin:$PATH"
 [ -f "/Users/ericjanto/.ghcup/env" ] && source "/Users/ericjanto/.ghcup/env"
 
 # NVM
 export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
 
-export PYTHONPATH=$PYTHONPATH:~/Developer/SDF
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
